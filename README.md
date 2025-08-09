@@ -15,9 +15,9 @@ Broadly speaking, I am interested in statistical methods, social and cultural ps
 - **Social and Cultural Psychology:** Justice, fairness, and morality; social and political values; cultural and evolutionary psychology
 - **Scholarship of Teaching and Learning:** Social psychology of education; student evaluations of teaching; faculty development
 
-### Available Materials
+### Materials on This Site
 
-I believe in clear and open practices in higher education. My summary teaching materials, links to my research publications and student independent projects, and portals to my open source statistics resources are all available on this website.
+I believe in clear and open practices in higher education. My summary teaching materials, links to my research publications and student independent projects, and portals to my open source statistics resources are all available here.
 
 - **[Teaching Materials:](teaching/README.md)** My teaching philosophy; learning outcomes for all of my courses; my grading system with examples
 - **[Statistics Resources:](resources/README.md)** Sourcebook of statistical methods; various statistics packages for R; Excel spreadsheets for basic statistical methods
