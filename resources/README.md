@@ -8,11 +8,9 @@ For most of my career, I have developed online textbook materials intended to fa
 
 ### R Packages
 
-I have worked to make estimation and other approaches to statistics easier using R. Currently, this includes R packages for implementation of estimation statistics, for contrast coding within established linear models, for visualizing distributions (plotDistributions), and more. Numerous examples, both from my online textbook above and from other textbooks and articles, are available.
+I have worked to make estimation and other approaches to statistics easier using R. Currently, this includes R packages for implementation of estimation statistics, for contrast coding within established linear models, for visualizing distributions, and more. Numerous examples, both from my online textbook above and from other textbooks and articles, are available.
 
 - Wendorf, C.A. (2025). _backcalc: Reconstruct missing inferential statistics_ \[R Package\]. [https://github.com/cwendorf/backcalc](https://github.com/cwendorf/backcalc)
-
-- Wendorf, C. A. (2025). _dsitR: Dynamic social impact simulator_ \[R Package\]. [https://github.com/cwendorf/dsitR](https://github.com/cwendorf/dsitR)
 
 - Wendorf, C. A. (2022). _EASI: Estimation Approach to Statistical Inference_ \[R Package\]. [https://github.com/cwendorf/EASI](https://github.com/cwendorf/EASI)
 
